@@ -1,0 +1,5 @@
+
+om talet är större än m
+
+    för varje heltal i från 1 till M
+        skriv ut i

@@ -1,0 +1,22 @@
+[
+{
+  "directory": "D:/Repos_vs/imperativ-programering-john-ledin/build",
+  "command": "C:\\msys64\\mingw64\\bin\\gcc.exe   -std=c99 -Wall -g -g -o CMakeFiles\\task_1.dir\\task_1.c.obj -c D:\\Repos_vs\\imperativ-programering-john-ledin\\task_1.c",
+  "file": "D:/Repos_vs/imperativ-programering-john-ledin/task_1.c"
+},
+{
+  "directory": "D:/Repos_vs/imperativ-programering-john-ledin/build",
+  "command": "C:\\msys64\\mingw64\\bin\\gcc.exe   -std=c99 -Wall -g -g -o CMakeFiles\\task_2.dir\\task_2.c.obj -c D:\\Repos_vs\\imperativ-programering-john-ledin\\task_2.c",
+  "file": "D:/Repos_vs/imperativ-programering-john-ledin/task_2.c"
+},
+{
+  "directory": "D:/Repos_vs/imperativ-programering-john-ledin/build",
+  "command": "C:\\msys64\\mingw64\\bin\\gcc.exe   -std=c99 -Wall -g -g -o CMakeFiles\\task_3.dir\\task_3.c.obj -c D:\\Repos_vs\\imperativ-programering-john-ledin\\task_3.c",
+  "file": "D:/Repos_vs/imperativ-programering-john-ledin/task_3.c"
+},
+{
+  "directory": "D:/Repos_vs/imperativ-programering-john-ledin/build",
+  "command": "C:\\msys64\\mingw64\\bin\\gcc.exe   -std=c99 -Wall -g -g -o CMakeFiles\\task_3.dir\\list.c.obj -c D:\\Repos_vs\\imperativ-programering-john-ledin\\list.c",
+  "file": "D:/Repos_vs/imperativ-programering-john-ledin/list.c"
+}
+]

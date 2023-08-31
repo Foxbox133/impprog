@@ -1,0 +1,5 @@
+D:/Repos_vs/imperativ-programering-john-ledin/inlupp3/build/CMakeFiles/task_1.dir
+D:/Repos_vs/imperativ-programering-john-ledin/inlupp3/build/CMakeFiles/task_2.dir
+D:/Repos_vs/imperativ-programering-john-ledin/inlupp3/build/CMakeFiles/task_3.dir
+D:/Repos_vs/imperativ-programering-john-ledin/inlupp3/build/CMakeFiles/ALL_BUILD.dir
+D:/Repos_vs/imperativ-programering-john-ledin/inlupp3/build/CMakeFiles/ZERO_CHECK.dir

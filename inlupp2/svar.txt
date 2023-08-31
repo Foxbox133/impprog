@@ -1,0 +1,19 @@
+Fråga 1: Jag använder ingen const för min pekare a* då jag vill spara summan av a och b i variabeln a
+    {
+        "version": "0.2.0",
+        "configurations": [
+            {
+                "name": "gcc - Build and debug active file",
+                "type": "cppdbg",
+                "request": "launch",
+                "program": "D:\\Repos vs\\imperativ-programering-john-ledin\\inlupp2\\task_1.exe",
+                "args": ["-lpthread", "1", "2", "3"],
+                "stopAtEntry": false,
+                "cwd": "inlupp2",
+                "environment": [],
+                "externalConsole": false,
+                "MIMode": "lldb",
+                "preLaunchTask": "gcc build active file"
+            }
+        ]
+    }

@@ -1,0 +1,43 @@
+image* blur_img(image*I){
+    int pixel_height=I->px_h;
+    int pixel_width=I->px_w;
+
+    image I_blurred;
+    int temp_num=0;
+    int tile_number=0;
+    for(int i=0;i<(pixel_height*pixel_width);i++){
+            temp_num=I->pixel_arr[i];
+            tile_number++;
+        if ((i-1>0) || (i%pixel_width!=1)){
+            temp_num=temp_num+I->pixel_arr[i-1];
+            printf("%d ", I->pixel_arr[i-1]);
+            tile_number++;
+        }
+
+        if (i+1<(pixel_height*pixel_width)||(i%pixel_width!=I->px_w)){
+            temp_num=temp_num+I->pixel_arr[i+1];
+            tile_number++;   
+            printf("%d ", I->pixel_arr[i+1]);
+        }
+
+        if ((i+pixel_width<(pixel_height*pixel_width))){
+            temp_num=temp_num+I->pixel_arr[i+pixel_width];
+            tile_number++;
+            printf("%d ", I->pixel_arr[i+pixel_width]);
+        }
+
+        if ((i-pixel_width>0)){
+            temp_num=temp_num + I->pixel_arr[i-pixel_width];
+            tile_number++;
+            printf("%d ", I->pixel_arr[i-pixel_width]);
+        }
+        //printf("%d ", temp_num);
+
+        I_blurred.pixel_arr[i]=temp_num/tile_number;
+        printf(" _%d_\n", I_blurred.pixel_arr[i]);
+        tile_number=0;
+        temp_num=0;
+
+    }
+    return &I_blurred;
+}

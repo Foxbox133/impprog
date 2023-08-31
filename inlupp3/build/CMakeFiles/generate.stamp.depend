@@ -1,0 +1,25 @@
+# CMake generation dependency list for this directory.
+D:/Repos_vs/imperativ-programering-john-ledin/inlupp3/CMakeLists.txt
+D:/Repos_vs/imperativ-programering-john-ledin/inlupp3/build/CMakeFiles/3.27.4/CMakeCCompiler.cmake
+D:/Repos_vs/imperativ-programering-john-ledin/inlupp3/build/CMakeFiles/3.27.4/CMakeCXXCompiler.cmake
+D:/Repos_vs/imperativ-programering-john-ledin/inlupp3/build/CMakeFiles/3.27.4/CMakeRCCompiler.cmake
+D:/Repos_vs/imperativ-programering-john-ledin/inlupp3/build/CMakeFiles/3.27.4/CMakeSystem.cmake
+D:/Repos_vs/share/cmake-3.27/Modules/CMakeCInformation.cmake
+D:/Repos_vs/share/cmake-3.27/Modules/CMakeCXXInformation.cmake
+D:/Repos_vs/share/cmake-3.27/Modules/CMakeCommonLanguageInclude.cmake
+D:/Repos_vs/share/cmake-3.27/Modules/CMakeGenericSystem.cmake
+D:/Repos_vs/share/cmake-3.27/Modules/CMakeInitializeConfigs.cmake
+D:/Repos_vs/share/cmake-3.27/Modules/CMakeLanguageInformation.cmake
+D:/Repos_vs/share/cmake-3.27/Modules/CMakeRCInformation.cmake
+D:/Repos_vs/share/cmake-3.27/Modules/CMakeSystemSpecificInformation.cmake
+D:/Repos_vs/share/cmake-3.27/Modules/CMakeSystemSpecificInitialize.cmake
+D:/Repos_vs/share/cmake-3.27/Modules/Compiler/CMakeCommonCompilerMacros.cmake
+D:/Repos_vs/share/cmake-3.27/Modules/Compiler/MSVC-C.cmake
+D:/Repos_vs/share/cmake-3.27/Modules/Compiler/MSVC-CXX.cmake
+D:/Repos_vs/share/cmake-3.27/Modules/Compiler/MSVC.cmake
+D:/Repos_vs/share/cmake-3.27/Modules/Platform/Windows-Initialize.cmake
+D:/Repos_vs/share/cmake-3.27/Modules/Platform/Windows-MSVC-C.cmake
+D:/Repos_vs/share/cmake-3.27/Modules/Platform/Windows-MSVC-CXX.cmake
+D:/Repos_vs/share/cmake-3.27/Modules/Platform/Windows-MSVC.cmake
+D:/Repos_vs/share/cmake-3.27/Modules/Platform/Windows.cmake
+D:/Repos_vs/share/cmake-3.27/Modules/Platform/WindowsPaths.cmake

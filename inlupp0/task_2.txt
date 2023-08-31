@@ -1,0 +1,13 @@
+
+i=1
+om talet M är större än 1
+      medans i är skilt från M
+            skriv ut i
+            sätt i=i+1
+annars
+    om talet är mindre än 1
+        medans i är skilt från M
+            skriv ut i
+            sätt i=i-1
+    annars
+        skriv ut i
